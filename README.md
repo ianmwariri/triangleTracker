@@ -6,7 +6,9 @@ Triangle Tracker App
 
 #DESCRIPTION
 
-  This App prompts a User to Key In Triangle Dimensions. In the event that the user keys in an invalid input, say a Negative number or Letter, The console pops an error alert stating that the Dimension is Invalid.
+  This App prompts a User to Key In Triangle Dimensions & thereafter, he/she is given alert message stating what type of Triangle the dimensions give. 
+  To use the System, Simply Click the 'Check it Out' Button, and type in the desired Triangle Dimensions.
+  In the event that the user keys in an invalid input, say a Negative number or Letter, The console pops an error alert stating that the Dimension(s) is/are Invalid.
 
 #Setup/Installation requirements
 
