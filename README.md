@@ -31,6 +31,7 @@ atom . OR code .
 
 
 #KNOWN BUGS
+
   -The system fails to show the intended background image when the github website is deployed, therefore, I have incorporated a background-color as my Website Background.
 
 
