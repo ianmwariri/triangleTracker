@@ -79,7 +79,9 @@ The program should return the following when ALL triangle dimensions Differ:
   Live Demo
 
 
-#To view the LIVE SITE, Click Here:
+#To view the LIVE SITE, Click Here: 
+
+    https://smokeyice.github.io/triangleTracker/
 
 
 
