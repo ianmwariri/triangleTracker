@@ -14,7 +14,6 @@ function getTriangle() {
     alert("Invalid Dimensions. NOT a Triangle");
   }
   else {
-    alert("Scalar");
+    alert("That's a Scalene Triangle!");
   }
 }
-getTriangle();
