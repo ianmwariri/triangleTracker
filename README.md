@@ -1,7 +1,7 @@
 Triangle Tracker App
 
 #Author
-By Ian Mwangi
+Ian Mwangi
 
 #Description
 This App prompts a User to Key In Triangle Dimensions. In the event that the user keys in an invalid input, say a Negative number or Letter, The console pops an error alert stating that the Dimension is Invalid.
@@ -15,6 +15,7 @@ Git
 HTML
 CSS
 JS
+Live Demo
 
 To view the live site, Click Here:
 
