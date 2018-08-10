@@ -13,7 +13,9 @@ Triangle Tracker App
 #Setup/Installation requirements
 
 * An up-to-date browser, preferably chrome
+
 * Internet connection
+
 * `Git`
 
 * SYSTEM GUIDELINES:
@@ -26,19 +28,29 @@ atom . OR code .
 The program should return the following when the user keys in a non-digit: 
       Input Example: 'ghzjaj' 
       Output Example: 'Invalid Input!'
+
+
 The program should return the follwoing when user keys in a negative value: 
       Input Example: -97 
       Output Example: ' Re-enter a valid Dimension: ' 
+
+
 The program should return the following when the sum of any two dimensions of the triangle is less than or equal to the Third Dimension: 
       Input Example: Dimension a: 40, Dimension b: 40, Dimension c: 100000 
       Output Example: 'Dimensions DON'T form a triangle...'
 
+
+
 The program should return the following when ALL 3 keyed-in dimensions are similar: 
          Input Example: Dimension a: 56, Dimension b: 56, Dimesnion c: 56
          Output Example: 'That's an Equilateral Triangle'
+
+
 The program should return the following when ONLY two of the keyed-in dimensions are similar: 
         Input Example: Dimension a: 690, second side = 690, third side = 750 
         Output Example: 'That's an Isosceles Triangle'
+
+
 The program should return the following when ALL triangle dimensions Differ: 
         Input Example: Dimension a: 377, Dimension b: 389, Dimension c: 6 
         Output Example: 'That's a Scalene Triangle'.
