@@ -31,10 +31,11 @@ font-weight: 100;
     position: absolute;
     top: 35%;
     left: 46%;
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     border: 5px solid darkgoldenrod;
+    border-style: double;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -46,7 +47,9 @@ font-weight: 100;
 }
 
 .classButtonClick{
+  top:35%;
   text-decoration: underline;
+  font-size:23px;
 }
 
 
