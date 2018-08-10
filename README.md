@@ -1,14 +1,19 @@
 Triangle Tracker App
 
+
 #AUTHOR
 
   Ian Mwangi
 
+
 #DESCRIPTION
 
   This App prompts a User to Key In Triangle Dimensions & thereafter, he/she is given alert message stating what type of Triangle the dimensions give. 
+  
   To use the System, Simply Click the 'Check it Out' Button, and type in the desired Triangle Dimensions.
+  
   In the event that the user keys in an invalid input, say a Negative number or Letter, The console pops an error alert stating that the Dimension(s) is/are Invalid.
+
 
 #Setup/Installation requirements
 
@@ -24,7 +29,13 @@ git clone https://github.com/smokeyice/triangleTracker.git
 cd triangleTracker
 atom . OR code .
 
+
+#KNOWN BUGS
+  -The system fails to show the intended background image when the github website is deployed, therefore, I have incorporated a background-color as my Website Background.
+
+
  ##BEHAVIOUR DRIVEN DEVELOPMENT (BDD)
+
 The program should return the following when the user keys in a non-digit: 
       Input Example: 'ghzjaj' 
       Output Example: 'Invalid Input!'
@@ -74,6 +85,7 @@ The program should return the following when ALL triangle dimensions Differ:
 #CONTACT DETAILS
 
   In case of any queries, feel free to reach me at: mwangi.ian3@gmail.com
+
 
 #COPYRIGHT & LICENCE
 
