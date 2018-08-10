@@ -29,7 +29,24 @@ font-weight: 100;
 
 .button {
     position: absolute;
-    top: 50%;
+    top: 35%;
+    left: 46%;
+    background-color: antiquewhite;
+
+   
+    border: none;
+    /*color: white;
+    padding: 15px 32px;*/
+
+     border: 2px solid coral;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.classButtonClick{
+  text-decoration: underline;
 }
 
 
