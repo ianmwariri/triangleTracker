@@ -1,4 +1,6 @@
-/*function getTriangle() {
+/*This comment block is a basic function for returning basic functionality of code
+
+function getTriangle() {
 
   var a = parseFloat(prompt("Enter Dimension a: "));
   var b = parseFloat(prompt("Enter Dimension b: "));
