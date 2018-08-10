@@ -8,17 +8,21 @@ body{
   text-decoration: underline;  
 }
 
-.classText{
+.classDiv{
   color:ivory;
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   text-align: center;
+  font-weight: bold;
 }
 
 .importantSpan{
 font-style: italic;
-color:violet;
+color:cornsilk;
+font-weight: 100;
+
+
 }
 
 .wrapper {
